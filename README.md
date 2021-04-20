@@ -1,5 +1,10 @@
 # Ensemble-CVDNet
 
+Requirements
+MATLAB® R2020a or later.
+Deep Learning Toolbox™.
+Computer Vision Toolbox™.
+
 - Use the shared network in the "Binary Classification" folder to classify severe and mild COVID-19 cases.
 - Use the shared network in the "Multiclass Classification" folder to distinguish between COVID-19, healthy, and normal cases.
 
