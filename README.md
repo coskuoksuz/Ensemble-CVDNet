@@ -1,3 +1,3 @@
 # Ensemble-CVDNet
 
-Label=classify(net,image)
+Prediction=classify(net,image)
