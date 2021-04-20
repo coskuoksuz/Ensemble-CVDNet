@@ -12,7 +12,7 @@ The example usage:  Prediction=classify(net,image)
 
 Please cite the publication given below if you use the networks shared.
 
-Öksüz, Coşku, Oğuzhan Urhan, and Mehmet Kemal Güllü. "Ensemble-CVDNet: A Deep Learning based End-to-End Classification Framework for COVID-19 Detection using Ensembles of Networks." arXiv preprint arXiv:2012.09132 (2020).
+Öksüz, Coşku, Oğuzhan Urhan, and Mehmet Kemal Güllü. "Ensemble-CVDNet: A Deep Learning based End-to-End Classification Framework for COVID-19 Detection using Ensembles of Networks." arXiv preprint arXiv:2012.09132 (2020). https://arxiv.org/abs/2012.09132v2
 
 
 The test images shared in the folders are obtained from the references below used. 
