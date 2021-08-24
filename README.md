@@ -5,7 +5,7 @@ MATLAB® R2021a or later.
 Deep Learning Toolbox™.
 Computer Vision Toolbox™.
 
-- Use the shared network in the folder to distinguish between COVID-19(+), and COVID-19(-) cases.
+- Use the shared network to distinguish between COVID-19(+), and COVID-19(-) cases.
 
 The example usage:  Prediction=classify(net,image)
 
